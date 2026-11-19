@@ -48,7 +48,7 @@ I used 12 reviewed insulin precursor sequences from UniProtKB/Swiss-Prot, a publ
 
 ## How to run the notebook
 
-1. Open `insulin_conservation.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `Insulin_Conservation_Across_12_Species.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Connect to a Python runtime and select **Runtime > Run all**.
 3. Let the cells run in order. The notebook downloads the sequences and installs MAFFT and MUSCLE.
 4. Read the tables, checks, and figures below the code. The notebook also saves the FASTA files, `results.csv`, and the three figure files in the Colab Files panel.
